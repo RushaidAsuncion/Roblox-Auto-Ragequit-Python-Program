@@ -33,7 +33,7 @@ pixelset = X, Y = 1785, 35  # fullscreen
 3. Run the script:
 
 ```bash
-python ragequit_roblox.py
+python autoragequit.py 
 ```
 
 4. The script will watch the specified pixel. When it detects red (low health), it will automatically close Roblox.
